@@ -11,12 +11,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 DESENVOLVEDOR JAVA PLENO/SR
+
 **SEG A SEXTA**
 **REMOTO**
 **VAGA CLT**
 
 **REQUISITOS OBRIGATÓRIOS:**
-Graduação na área de tecnologia, em cursos como Análise e Desenvolvimento de Sistemas, Sistemas da Informação, Engenharia da Computação, Ciência da Computação ou correlatos:.
+
+•Graduação na área de tecnologia, em cursos como Análise e Desenvolvimento de Sistemas, Sistemas da Informação, Engenharia da Computação, Ciência da Computação ou correlatos:.
+
 [I/A] Conhecimento em tecnologias em Cloud AWS, entre outras tecnologias que apoiam no desenvolvimento de soluções nesta camada
 [I/A] Experiência com Java EE versão 8 e/ou 11
 [I/A] Experiência em tecnologias Big Data (Hadoop/Spark)
@@ -25,7 +28,9 @@ Graduação na área de tecnologia, em cursos como Análise e Desenvolvimento de
 [I/A]Conhecimento em programação Scala ou Python
 I - Intermediário
 A - Avançado 
+
 **PRINCIPAIS ATIVIDADES:**
+
 -Criar, definir e controlar os padrões de arquitetura corporativa de dados nos ambientes OLTP – Transacionais e OLAP – Analíticos de acordo com os objetivos estratégicos (KRs);
 -Definir e elaborar projetos de arquitetura de integração de dados, seja massivo ou sob demanda;
 -Definir e apresentar soluções de Integração de dados entre os sistemas de informação – garantir a Interoperabilidade;
@@ -33,6 +38,7 @@ A - Avançado
 -Prestar apoio aos times no atendimento aos problemas apresentados referente aos dados ou tecnologias afins;
 
 **BENEFÍCIOS**
+
 •	PR: até 1,5;
 • Alimentação/Refeição: R$1648,95 mensal ;
 • Cesta Natalina;
