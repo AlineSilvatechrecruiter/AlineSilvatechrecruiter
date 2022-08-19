@@ -2,7 +2,8 @@
 - 👀 I’m interested in ... Desenvolvedor Java PL/SR
 - 💞️ I’m a recruiting partner of Lovel.dev.
 - 📫 How to reach me ... LinkedIn:https://www.linkedin.com/in/alinesilva20
-                         E-mail: alinesilva199890@gmail.com
+                         
+E-mail: alinesilva199890@gmail.com
 
 <!---
 AlineSilvatechrecruiter/AlineSilvatechrecruiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
